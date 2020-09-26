@@ -5,4 +5,4 @@
 - week 10 Solution.ipynb contains both the SQL and Python code required for this project.
 
 ### Challenge document
-The challenge document can be found here(https://docs.google.com/document/d/1NSetqxsMZtjT8BLWcUk-aLv6StyWUBpKEJGT5l03NzM/edit?usp=sharing)
+The challenge document can be found [here](https://docs.google.com/document/d/1NSetqxsMZtjT8BLWcUk-aLv6StyWUBpKEJGT5l03NzM/edit?usp=sharing)
