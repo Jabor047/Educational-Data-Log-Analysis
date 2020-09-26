@@ -3,6 +3,7 @@
 
 ### Files
 - week 10 Solution.ipynb contains both the SQL and Python code required for this project.
+- [Tableau visualization](https://public.tableau.com/views/Week10Task3/LearnerGrouping?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 ### Challenge document
 The challenge document can be found [here](https://docs.google.com/document/d/1NSetqxsMZtjT8BLWcUk-aLv6StyWUBpKEJGT5l03NzM/edit?usp=sharing)
